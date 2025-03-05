@@ -11,3 +11,6 @@ Overall Circuit can be divided into 7 parts
 5. ***Switch Circuit*** - We use two limiting switches to toggle the supply using dff and fed it to IN1 and IN2 to achieve proper wiper rotation(0 to 180 deg).
 6. ***Motor Driver and Motor*** - This PWM signal is given to EN of motor driver, outputs from Switch Circuit to IN1 and IN2 and out1 and out 2 to a dc motor
 7. ***Led and needles + Arduino*** -  We have used arduino UNO to control a servo motor that serves as the needle of speed indicator and the outputs from Comparator circuits is given to Leds which glows when the output is high and placed semicircularly to mimic speedometer.
+
+
+### [This text link to working videos of the circuit](https://drive.google.com/drive/folders/1tUdHJNRUtfXS56_pBJ250gK1kQLBFwH8)
