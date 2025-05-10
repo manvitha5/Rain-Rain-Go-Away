@@ -13,4 +13,4 @@ Overall Circuit can be divided into 7 parts
 7. ***Led and needles + Arduino*** -  We have used arduino UNO to control a servo motor that serves as the needle of speed indicator and the outputs from Comparator circuits is given to Leds which glows when the output is high and placed semicircularly to mimic speedometer.
 
 
-### [This text link to working videos of the circuit](https://drive.google.com/drive/folders/1tUdHJNRUtfXS56_pBJ250gK1kQLBFwH8)
+### [This text links to working videos of the circuit](https://drive.google.com/drive/folders/1tUdHJNRUtfXS56_pBJ250gK1kQLBFwH8)
